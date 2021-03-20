@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-flow: column nowrap;
+    max-width: 400px;
+    justify-content: center;
+    background-color:aquamarine;
+}
+h1{
+    text-align: center;
+}
